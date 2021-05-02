@@ -1,6 +1,4 @@
-# IndiCov | A platform for all your covid needs. 
-
-![IndiCov](https://user-images.githubusercontent.com/65373279/116795491-fdb16100-aaf2-11eb-8d99-09d0322085d8.png)
+# Covin | A platform for all your covid needs. 
 
 IndiCov is a platform that works towards helping patients during this pandemic by informing and constantly updating them of the available resources. People can visit this site and check in the status of the resource availability according to the states or district wise.
 

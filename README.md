@@ -1,6 +1,6 @@
 # Covin | A platform for all your covid needs. 
 
-IndiCov is a platform that works towards helping patients during this pandemic by informing and constantly updating them of the available resources. People can visit this site and check in the status of the resource availability according to the states or district wise.
+Covin is a platform that works towards helping patients during this pandemic by informing and constantly updating them of the available resources. People can visit this site and check in the status of the resource availability according to the states or district wise.
 
 ## APIs Used
  
@@ -20,7 +20,7 @@ Join our discord and get in touch with several other developers.
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-# How you can start contributing to IndiCov?
+# How you can start contributing to Covin?
 
 Types of Contributions:
 1. Code (Front-End)
